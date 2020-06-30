@@ -6,7 +6,7 @@ The main programme is 'ODT.py', which constructs decision trees and executes the
 This file needs 'DataProcessing.py' to read the data files and fetch all the parameters.\
 All other files are data files.
 
-In the ODT file, you can edit to specificy what dataset, what tree topology and what options you want for the optimisation
+In the ODT file, you can edit to specificy what dataset, what tree topology and what options you want for the optimisation.
 
 Kind regards,
 
